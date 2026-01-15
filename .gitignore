@@ -1,0 +1,9 @@
+# Derlenmis dosyalari yoksay
+*.exe
+*.dll
+*.obj
+*.o
+
+# Editor gecici dosyalarini yoksay
+.vscode/
+*.swp
